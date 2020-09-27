@@ -2,4 +2,4 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/DjamshidDjurayev/react-native-sms-view/blob/master/timer.mp4
+[logo]: https://github.com/DjamshidDjurayev/react-native-sms-view/blob/master/timer.gif
